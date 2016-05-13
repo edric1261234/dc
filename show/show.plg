@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: show - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/show.res" /d "_DEBUG" /d "_AFXDLL" "D:\other\show\show.rc"" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/show.pdb" /debug /machine:I386 /out:"Debug/show.exe" /pdbtype:sept  .\Debug\show.obj .\Debug\showDlg.obj .\Debug\Statics_time.obj .\Debug\StdAfx.obj .\Debug\show.res "
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+show.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
